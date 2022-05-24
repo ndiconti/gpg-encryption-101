@@ -1,1 +1,3 @@
-# PGP Encryption 101
+# GPG Encryption 101
+
+## How to use GPG encryption 
