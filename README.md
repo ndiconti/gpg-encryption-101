@@ -12,7 +12,7 @@ So why do we need GPG?
 
 This is the opening line of [A Cypherpunk's Manifesto](https://nakamotoinstitute.org/cypherpunk-manifesto/) by Eric Hughes in 1993. The original cypherpunks believed that privacy was not only a necessity in the digital age but a basic human right. One of their ambitions was to create a digital money which could be transacted without the need for a trusted third party.  
 
-Bitcoin is the solution to this problem. Ultimately what it set put to solve was the problem of double spending, but it did so by using digital signatures in an *open peer-to-peer network*. 
+Bitcoin is the solution to this problem. Ultimately what it set out to solve was the problem of double spending, but it did so by using digital signatures in an *open peer-to-peer network*. 
 
 Satoshi Nakamoto wrote about privacy in Bitcoin’s Whitepaper:
 
@@ -21,6 +21,8 @@ Satoshi Nakamoto wrote about privacy in Bitcoin’s Whitepaper:
 While private transactions on Bitcoin network are not fully anonymous, it is our responsibility as individuals to understand why encryption matters for a trustless network to function.
 
 Privacy in the digital age requires cryptography. This allows us to reveal our data and identity when desired and only to whom desired. This is the essence of privacy. 
+
+As the old adage goes: **don't trust, verify.** 
 
 ## Some basics 
 
