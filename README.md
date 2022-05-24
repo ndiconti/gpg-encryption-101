@@ -12,7 +12,7 @@ So why do we need GPG?
 
 This is the opening line of [A Cypherpunk's Manifesto](https://nakamotoinstitute.org/cypherpunk-manifesto/) by Eric Hughes in 1993. The original cypherpunks believed that privacy was not only a necessity in the digital age but a basic human right. One of their ambitions was to create a digital money which could be transacted without the need for a trusted third party.  
 
-Bitcoin was the solution to this problem. Ultimately what it set put to solve was the problem of double spending, but it did so by using digital signatures in an *open peer-to-peer network*. 
+Bitcoin is the solution to this problem. Ultimately what it set put to solve was the problem of double spending, but it did so by using digital signatures in an *open peer-to-peer network*. 
 
 Satoshi Nakamoto wrote about privacy in Bitcoin’s Whitepaper:
 
@@ -24,9 +24,11 @@ Privacy in the digital age requires cryptography. This allows us to reveal our d
 
 ## Some basics 
 
-Encryption is the process of converting data into secret, incomprehensible code such that only intended parties are capable of understanding the information. The [GPG Tools support](https://gpgtools.tenderapp.com/kb/how-to/introduction-to-cryptography#p1) provides a fantastic rabbit hole for all of you to explore the nuances of cryptography, hash functions, digital certificates etc. 
+Encryption is the process of converting data into secret, incomprehensible code such that only intended parties are capable of understanding the information. 
 
-We will cover many of these topics but with a focus on the tools and uses of them using the command line and some basic exercises. 
+The [GPG Tools support](https://gpgtools.tenderapp.com/kb/how-to/introduction-to-cryptography#p1) provides a fantastic rabbit hole to dive deeper into the technicalities of cryptography, hash functions, digital certificates etc. 
+
+We will cover many of these topics here but with a focus on the tools and application of them using the command line and some basic exercises. 
 
 ## How to use GPG encryption 
 
