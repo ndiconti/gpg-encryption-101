@@ -16,7 +16,7 @@ Bitcoin was the solution to this problem. Ultimately what it set put to solve wa
 
 Satoshi Nakamoto wrote about privacy in Bitcoin’s Whitepaper:
 
-    “Some linking of transactions to a common owner is still unavoidable, and could reveal other transactions that belonged to the same owner”
+> “Some linking of transactions to a common owner is still unavoidable, and could reveal other transactions that belonged to the same owner”
 
 While private transactions on Bitcoin network are not fully anonymous, it is our responsibility as individuals to understand why encryption matters for a trustless network to function.
 
