@@ -139,7 +139,7 @@ When we want to communicate or share files using PGP encryption we need the reci
 
 ![search](./images/9.jpg)
 
-	When you a verified email address, you can import it's associated public key. 
+	When you have a verified email address, you can import it's associated public key. 
 
 ![search](./images/10.jpg)
 
@@ -193,6 +193,14 @@ This now allows you to communicate securely with them, as well as share encrypte
 ![keys](./images/19.jpg)
 
 You can now share these files with your chosen recipients securely over a public channel or as an email attachment without fear of snooping eyes. 
+
+## Managing your keys
+
+You can right click on any of the keys in the GPG Suite and that will bring up a bunch of options, including seeing the keys and user IDs. 
+
+- A the very bottom you can set the `Owner Trust` level in accordance with a chosen address that you have been verifying and interacting with with greater frequency. The default owner trust of an imported public key is `Never`.
+
+![keys](./images/20.jpg)
 
  ## Verifying signatures
 
