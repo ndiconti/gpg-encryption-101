@@ -128,28 +128,26 @@ See more on [GPG key backup and recovery](https://gpgtools.tenderapp.com/kb/gpg-
  
  This is not in the scope of this encryption 101 class, but follow the above link as GPG makes it super easy to setup on your MacOS mail app.
 
-## Importing and exporting public keys
+
+## Importing public keys
 
 When we want to communicate or share files using PGP encryption we need the recipient to have access to our public key, and they need to have ours.
 
-### Importing public keys:
-
 - We can find and import other people's GPG public key from [keys.openpgp.org](https://keys.openpgp.org/), or straight from the GPG Suite app on the Toolbar has a `Lookup Key` which searches the public server. 
-
 
 ![search](./images/9.jpg)
 
-	When you have a verified email address, you can import it's associated public key. 
+When you have a verified email address, you can import it's associated public key. 
 
 ![search](./images/10.jpg)
 
-	Your GPG Suite will end up looking something like this:
+Your GPG Suite will end up looking something like this:
 
 ![keys](./images/11.jpg)
 
-### Exporting public keys
+## Exporting public keys
 
-	To share our public key, right click your newly created key and select `Export`. You can see in the dropdown the various options available. 
+To share our public key, right click your newly created key and select `Export`. You can see in the dropdown the various options available. 
 
 ![keys](./images/12.jpg)
 
@@ -163,9 +161,9 @@ Here is the public key file that is created and which you can share with your ne
 
 ![keys](./images/14.jpg)
 
-	Share your public key by uploading the file on the Time Machine Academy discord / gnupg chat. Here you will find other users public keys which you can download and import to your GPG Suite. 
+- Share your public key by uploading the file on the Time Machine Academy discord / gnupg chat. Here you will find other users public keys which you can download and import to your GPG Suite. 
 
-This now allows you to communicate securely with them, as well as share encrypted files and messages. 
+- This now allows you to communicate securely with them, as well as share encrypted files and messages. 
 
 ![keys](./images/15.jpg)
 
